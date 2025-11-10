@@ -1,0 +1,1016 @@
+num_tie,dia_semana,tipocompra,cartera,promedio_venta
+712,Wednesday,Contado,Ropa,17983.0
+6548,Friday   ,Credito,Muebles,12930.51
+144,Saturday ,Contado,Tiempo Aire,1524.0
+503,Wednesday,Credito,Ropa,8353.2
+462,Friday   ,Contado,Tiempo Aire,1146.4
+712,Sunday   ,Contado,Muebles,4325.64
+846,Saturday ,Credito,Tiempo Aire,289.0
+951,Friday   ,Credito,Ropa,9738.8
+82,Wednesday,Credito,Tiempo Aire,520.75
+7824,Thursday ,Contado,Muebles,7378.78
+419,Thursday ,Credito,Tiempo Aire,195.5
+419,Saturday ,Credito,Prestamos,48579.25
+511,Monday   ,Contado,Tiempo Aire,697.25
+86,Sunday   ,Credito,Tiempo Aire,639.5
+511,Saturday ,Credito,Tiempo Aire,246.0
+84,Saturday ,Credito,Muebles,208173.91
+6548,Tuesday  ,Credito,Ropa,12883.5
+86,Wednesday,Credito,Ropa,60693.6
+951,Wednesday,Contado,Muebles,97440.68
+712,Monday   ,Contado,Muebles,3049.78
+7824,Sunday   ,Contado,Tiempo Aire,894.75
+82,Thursday ,Credito,Muebles,139256.9
+951,Friday   ,Contado,Ropa,25681.6
+82,Wednesday,Contado,Tiempo Aire,2818.8
+503,Wednesday,Credito,Tiempo Aire,227.5
+6548,Thursday ,Contado,Tiempo Aire,886.2
+954,Saturday ,Credito,Ropa,85168.5
+144,Saturday ,Credito,Prestamos,64629.75
+1159,Wednesday,Contado,Muebles,12191.02
+951,Wednesday,Credito,Ropa,10063.2
+299,Tuesday  ,Credito,Prestamos,97645.5
+462,Tuesday  ,Credito,Muebles,24473.71
+419,Saturday ,Credito,Ropa,70084.25
+86,Saturday ,Credito,Ropa,132903.0
+822,Sunday   ,Credito,Prestamos,30946.25
+503,Monday   ,Credito,Tiempo Aire,231.0
+84,Sunday   ,Contado,Ropa,72895.75
+758,Tuesday  ,Credito,Tiempo Aire,173.5
+6548,Monday   ,Contado,Tiempo Aire,500.5
+86,Sunday   ,Credito,Ropa,154294.5
+511,Monday   ,Contado,Ropa,8117.25
+1050,Sunday   ,Credito,Ropa,31173.25
+512,Thursday ,Credito,Tiempo Aire,163.0
+954,Friday   ,Credito,Tiempo Aire,379.25
+1050,Saturday ,Credito,Muebles,71389.67
+511,Tuesday  ,Credito,Tiempo Aire,159.33
+144,Sunday   ,Credito,Prestamos,62432.75
+1159,Saturday ,Credito,Ropa,70112.5
+86,Friday   ,Contado,Tiempo Aire,2022.8
+6548,Tuesday  ,Credito,Muebles,11534.19
+1389,Thursday ,Credito,Muebles,75560.67
+712,Sunday   ,Credito,Ropa,24893.0
+86,Wednesday,Credito,Prestamos,125684.6
+822,Thursday ,Contado,Tiempo Aire,1972.8
+299,Saturday ,Contado,Muebles,38390.06
+954,Saturday ,Credito,Muebles,165779.72
+419,Thursday ,Contado,Tiempo Aire,963.8
+462,Tuesday  ,Credito,Ropa,14802.5
+512,Saturday ,Contado,Ropa,4040.25
+822,Tuesday  ,Credito,Muebles,10599.57
+7824,Monday   ,Credito,Muebles,22546.55
+1050,Saturday ,Credito,Tiempo Aire,87.0
+1159,Saturday ,Credito,Muebles,108367.44
+503,Saturday ,Contado,Ropa,44969.75
+299,Sunday   ,Contado,Muebles,17338.99
+954,Sunday   ,Credito,Muebles,169188.57
+503,Tuesday  ,Credito,Ropa,13496.5
+951,Wednesday,Contado,Tiempo Aire,132.75
+86,Thursday ,Contado,Ropa,68513.4
+84,Saturday ,Credito,Prestamos,88408.5
+1159,Monday   ,Credito,Prestamos,108982.0
+1389,Saturday ,Contado,Muebles,21177.59
+822,Saturday ,Credito,Tiempo Aire,485.5
+86,Sunday   ,Contado,Muebles,88132.04
+1389,Friday   ,Credito,Tiempo Aire,173.0
+82,Tuesday  ,Contado,Ropa,80674.25
+419,Friday   ,Credito,Prestamos,57149.8
+846,Friday   ,Credito,Prestamos,85828.8
+299,Wednesday,Credito,Ropa,32281.8
+86,Friday   ,Credito,Prestamos,122082.0
+954,Friday   ,Contado,Tiempo Aire,1392.6
+82,Friday   ,Credito,Muebles,150773.61
+6548,Sunday   ,Credito,Ropa,32005.75
+503,Wednesday,Credito,Muebles,2542.24
+822,Friday   ,Contado,Tiempo Aire,2256.6
+7824,Tuesday  ,Credito,Ropa,17825.75
+6548,Sunday   ,Contado,Muebles,422.41
+299,Sunday   ,Credito,Prestamos,58541.25
+299,Thursday ,Credito,Prestamos,61777.4
+512,Tuesday  ,Credito,Prestamos,12714.5
+822,Sunday   ,Credito,Ropa,32432.75
+822,Monday   ,Credito,Tiempo Aire,151.75
+1159,Friday   ,Contado,Ropa,35833.4
+822,Sunday   ,Credito,Muebles,41629.31
+954,Sunday   ,Contado,Ropa,83921.0
+144,Monday   ,Contado,Tiempo Aire,909.5
+1389,Sunday   ,Contado,Muebles,27176.06
+6548,Thursday ,Credito,Muebles,8900.0
+1159,Wednesday,Contado,Tiempo Aire,1082.6
+951,Monday   ,Credito,Ropa,8056.5
+462,Wednesday,Credito,Tiempo Aire,289.0
+462,Sunday   ,Credito,Prestamos,29942.75
+6548,Friday   ,Contado,Ropa,20206.2
+82,Wednesday,Credito,Muebles,126104.84
+954,Monday   ,Contado,Muebles,18681.22
+511,Sunday   ,Contado,Tiempo Aire,696.25
+822,Saturday ,Credito,Muebles,64611.42
+86,Saturday ,Contado,Muebles,58863.12
+299,Tuesday  ,Credito,Ropa,35324.0
+84,Sunday   ,Credito,Prestamos,75972.5
+712,Wednesday,Credito,Muebles,20014.87
+846,Saturday ,Contado,Muebles,39615.27
+758,Saturday ,Credito,Prestamos,40516.0
+144,Sunday   ,Credito,Ropa,41884.5
+84,Wednesday,Credito,Ropa,45584.8
+503,Monday   ,Contado,Muebles,2591.09
+758,Tuesday  ,Contado,Muebles,1920.04
+712,Monday   ,Contado,Tiempo Aire,1169.5
+7824,Friday   ,Contado,Muebles,4797.06
+1389,Tuesday  ,Credito,Tiempo Aire,87.0
+144,Sunday   ,Contado,Muebles,49443.31
+512,Tuesday  ,Credito,Ropa,2921.75
+1050,Monday   ,Contado,Muebles,23812.27
+86,Friday   ,Credito,Tiempo Aire,440.6
+419,Friday   ,Credito,Tiempo Aire,314.25
+954,Friday   ,Credito,Muebles,93980.52
+299,Friday   ,Contado,Muebles,21913.45
+511,Tuesday  ,Credito,Muebles,14234.7
+84,Saturday ,Credito,Tiempo Aire,933.25
+512,Sunday   ,Credito,Muebles,11820.04
+503,Tuesday  ,Contado,Ropa,17020.0
+512,Monday   ,Contado,Tiempo Aire,620.25
+82,Friday   ,Credito,Prestamos,173654.2
+954,Tuesday  ,Contado,Tiempo Aire,1212.75
+462,Tuesday  ,Credito,Tiempo Aire,412.0
+512,Saturday ,Contado,Tiempo Aire,588.75
+1389,Tuesday  ,Contado,Ropa,26286.0
+758,Sunday   ,Credito,Prestamos,19999.33
+1050,Thursday ,Contado,Muebles,18805.85
+82,Monday   ,Credito,Tiempo Aire,661.0
+84,Friday   ,Contado,Muebles,40683.92
+712,Monday   ,Credito,Prestamos,46503.75
+846,Friday   ,Contado,Muebles,24265.66
+462,Sunday   ,Contado,Muebles,10069.39
+1050,Tuesday  ,Contado,Muebles,24818.74
+1159,Sunday   ,Credito,Tiempo Aire,361.67
+503,Thursday ,Contado,Ropa,18543.8
+503,Wednesday,Contado,Muebles,118.53
+511,Wednesday,Credito,Ropa,9046.8
+299,Saturday ,Credito,Muebles,72430.18
+419,Monday   ,Credito,Muebles,86520.06
+846,Thursday ,Credito,Prestamos,73333.6
+1389,Thursday ,Credito,Tiempo Aire,151.75
+954,Friday   ,Credito,Ropa,45477.2
+846,Monday   ,Contado,Muebles,29493.07
+1159,Tuesday  ,Contado,Ropa,31301.5
+462,Friday   ,Credito,Ropa,16733.6
+503,Friday   ,Credito,Tiempo Aire,199.4
+299,Tuesday  ,Credito,Tiempo Aire,317.33
+512,Thursday ,Contado,Muebles,350.51
+512,Saturday ,Credito,Tiempo Aire,173.75
+846,Friday   ,Credito,Ropa,48074.8
+1050,Thursday ,Credito,Muebles,61869.65
+511,Friday   ,Credito,Tiempo Aire,286.0
+511,Tuesday  ,Credito,Prestamos,55000.25
+712,Sunday   ,Credito,Tiempo Aire,227.5
+712,Thursday ,Credito,Tiempo Aire,173.67
+1050,Monday   ,Credito,Muebles,43700.44
+1050,Sunday   ,Credito,Prestamos,16210.0
+84,Friday   ,Credito,Prestamos,145344.6
+822,Wednesday,Contado,Tiempo Aire,1539.6
+503,Monday   ,Contado,Tiempo Aire,353.5
+462,Monday   ,Contado,Ropa,17349.75
+1389,Wednesday,Credito,Prestamos,81497.2
+503,Thursday ,Contado,Tiempo Aire,167.8
+6548,Tuesday  ,Contado,Tiempo Aire,581.25
+7824,Wednesday,Credito,Prestamos,18688.2
+86,Wednesday,Contado,Tiempo Aire,1828.2
+84,Monday   ,Contado,Ropa,57604.75
+512,Saturday ,Credito,Muebles,14527.16
+144,Tuesday  ,Credito,Tiempo Aire,260.67
+1159,Friday   ,Contado,Muebles,16160.5
+82,Sunday   ,Credito,Prestamos,114283.5
+82,Thursday ,Credito,Prestamos,183849.2
+1159,Wednesday,Contado,Ropa,26032.8
+758,Friday   ,Credito,Muebles,8397.59
+6548,Monday   ,Contado,Muebles,3703.45
+511,Wednesday,Contado,Ropa,8930.6
+951,Wednesday,Credito,Muebles,81776.4
+511,Saturday ,Credito,Ropa,17846.75
+954,Thursday ,Credito,Ropa,51147.0
+512,Tuesday  ,Contado,Ropa,2948.75
+299,Sunday   ,Credito,Tiempo Aire,346.67
+512,Tuesday  ,Credito,Tiempo Aire,144.67
+822,Saturday ,Contado,Tiempo Aire,3032.5
+299,Friday   ,Contado,Ropa,53033.0
+712,Saturday ,Credito,Ropa,30111.25
+846,Sunday   ,Credito,Prestamos,92180.75
+512,Thursday ,Credito,Ropa,2847.4
+86,Sunday   ,Credito,Prestamos,168549.75
+86,Wednesday,Credito,Tiempo Aire,312.6
+511,Thursday ,Credito,Muebles,9270.35
+954,Wednesday,Credito,Muebles,92246.89
+82,Friday   ,Contado,Tiempo Aire,2993.8
+951,Sunday   ,Credito,Ropa,9433.25
+419,Sunday   ,Credito,Tiempo Aire,188.0
+86,Thursday ,Credito,Tiempo Aire,281.5
+86,Saturday ,Credito,Prestamos,87085.0
+299,Tuesday  ,Contado,Ropa,36774.5
+84,Wednesday,Contado,Tiempo Aire,2625.4
+1389,Saturday ,Credito,Tiempo Aire,238.75
+846,Friday   ,Contado,Tiempo Aire,1911.4
+144,Wednesday,Credito,Tiempo Aire,173.0
+299,Sunday   ,Contado,Ropa,56892.0
+7824,Friday   ,Credito,Prestamos,23481.6
+846,Friday   ,Credito,Muebles,90791.88
+758,Thursday ,Contado,Ropa,6878.2
+82,Monday   ,Credito,Prestamos,157666.0
+82,Wednesday,Contado,Ropa,83404.0
+846,Saturday ,Contado,Ropa,96328.75
+846,Monday   ,Credito,Prestamos,89762.75
+512,Monday   ,Credito,Ropa,1715.5
+6548,Wednesday,Contado,Tiempo Aire,473.4
+1159,Sunday   ,Contado,Muebles,15326.91
+822,Wednesday,Credito,Ropa,15420.2
+712,Friday   ,Credito,Tiempo Aire,303.0
+7824,Thursday ,Contado,Ropa,28685.6
+954,Tuesday  ,Credito,Muebles,78262.71
+7824,Monday   ,Credito,Ropa,17632.5
+954,Tuesday  ,Contado,Muebles,41365.93
+1159,Sunday   ,Credito,Muebles,84070.91
+82,Tuesday  ,Credito,Prestamos,180299.5
+299,Wednesday,Contado,Muebles,29050.66
+822,Monday   ,Credito,Prestamos,16528.75
+846,Tuesday  ,Credito,Tiempo Aire,376.33
+144,Saturday ,Contado,Muebles,32660.1
+712,Sunday   ,Contado,Ropa,20850.75
+1389,Monday   ,Contado,Muebles,40565.93
+7824,Tuesday  ,Credito,Muebles,13036.85
+6548,Sunday   ,Contado,Ropa,32027.5
+6548,Thursday ,Contado,Ropa,18554.6
+712,Tuesday  ,Contado,Muebles,5712.28
+503,Sunday   ,Contado,Ropa,31496.0
+82,Friday   ,Credito,Tiempo Aire,477.6
+512,Sunday   ,Credito,Tiempo Aire,217.5
+84,Saturday ,Credito,Ropa,103182.0
+846,Wednesday,Credito,Muebles,96883.97
+462,Friday   ,Contado,Ropa,19931.0
+86,Monday   ,Credito,Prestamos,166157.5
+84,Friday   ,Credito,Ropa,75731.0
+1159,Friday   ,Credito,Prestamos,64552.0
+7824,Saturday ,Credito,Prestamos,24395.5
+758,Sunday   ,Credito,Ropa,10159.25
+462,Monday   ,Contado,Tiempo Aire,722.75
+846,Saturday ,Contado,Tiempo Aire,2374.5
+951,Tuesday  ,Credito,Muebles,72944.4
+712,Saturday ,Contado,Ropa,31509.25
+822,Friday   ,Credito,Muebles,41464.47
+84,Friday   ,Credito,Tiempo Aire,737.2
+954,Sunday   ,Credito,Tiempo Aire,334.0
+954,Thursday ,Credito,Tiempo Aire,295.2
+758,Friday   ,Credito,Prestamos,22197.0
+846,Wednesday,Credito,Ropa,39997.6
+758,Saturday ,Credito,Muebles,14383.19
+1389,Monday   ,Credito,Tiempo Aire,390.0
+758,Sunday   ,Contado,Ropa,10556.75
+1389,Tuesday  ,Credito,Muebles,74472.62
+822,Wednesday,Credito,Tiempo Aire,390.4
+144,Thursday ,Credito,Ropa,20934.0
+6548,Wednesday,Contado,Muebles,2541.71
+86,Friday   ,Credito,Muebles,132469.65
+1389,Monday   ,Contado,Ropa,32165.25
+7824,Saturday ,Contado,Muebles,12305.16
+511,Friday   ,Contado,Muebles,4050.17
+84,Thursday ,Contado,Tiempo Aire,2468.8
+511,Friday   ,Credito,Prestamos,33553.2
+758,Thursday ,Credito,Ropa,7500.0
+419,Saturday ,Contado,Tiempo Aire,1654.25
+7824,Thursday ,Credito,Tiempo Aire,174.0
+1050,Wednesday,Credito,Muebles,30697.58
+1050,Saturday ,Contado,Muebles,38803.21
+512,Thursday ,Contado,Tiempo Aire,363.6
+6548,Thursday ,Credito,Ropa,13393.6
+462,Friday   ,Credito,Tiempo Aire,101.33
+144,Thursday ,Credito,Tiempo Aire,303.33
+144,Sunday   ,Credito,Tiempo Aire,519.0
+144,Saturday ,Credito,Muebles,78170.26
+1050,Thursday ,Credito,Tiempo Aire,260.0
+512,Monday   ,Credito,Tiempo Aire,108.5
+712,Saturday ,Credito,Tiempo Aire,476.5
+954,Tuesday  ,Credito,Prestamos,93293.5
+512,Friday   ,Contado,Ropa,2931.0
+1389,Friday   ,Contado,Tiempo Aire,1013.2
+712,Friday   ,Credito,Muebles,18355.18
+82,Friday   ,Contado,Muebles,56913.42
+84,Tuesday  ,Credito,Prestamos,71720.5
+84,Tuesday  ,Contado,Tiempo Aire,2474.0
+512,Friday   ,Contado,Muebles,1983.27
+758,Friday   ,Credito,Tiempo Aire,261.0
+299,Saturday ,Contado,Tiempo Aire,1438.0
+462,Saturday ,Credito,Muebles,40213.15
+954,Saturday ,Contado,Muebles,38299.77
+86,Thursday ,Contado,Muebles,33439.43
+846,Sunday   ,Contado,Muebles,34274.76
+144,Friday   ,Contado,Muebles,40375.15
+503,Wednesday,Credito,Prestamos,4057.0
+299,Friday   ,Credito,Ropa,43127.2
+951,Monday   ,Contado,Ropa,26407.5
+7824,Wednesday,Credito,Muebles,17025.34
+419,Thursday ,Contado,Muebles,17349.3
+419,Sunday   ,Contado,Muebles,27857.32
+84,Friday   ,Contado,Ropa,77380.8
+6548,Sunday   ,Credito,Tiempo Aire,174.0
+299,Thursday ,Contado,Ropa,48890.2
+1050,Saturday ,Credito,Ropa,39513.75
+758,Wednesday,Contado,Ropa,7084.0
+144,Saturday ,Credito,Ropa,47331.25
+1389,Friday   ,Credito,Prestamos,35520.4
+503,Tuesday  ,Contado,Muebles,1580.17
+419,Thursday ,Credito,Prestamos,70038.8
+82,Saturday ,Contado,Ropa,192616.75
+511,Tuesday  ,Credito,Ropa,8591.0
+419,Wednesday,Credito,Muebles,77866.72
+1159,Wednesday,Credito,Prestamos,65639.6
+758,Friday   ,Contado,Ropa,7223.8
+7824,Friday   ,Contado,Tiempo Aire,924.4
+1050,Monday   ,Contado,Tiempo Aire,463.5
+511,Monday   ,Credito,Prestamos,67307.0
+82,Saturday ,Credito,Ropa,215457.25
+84,Wednesday,Credito,Prestamos,71547.6
+712,Sunday   ,Contado,Tiempo Aire,1259.25
+7824,Saturday ,Contado,Tiempo Aire,1044.5
+1050,Sunday   ,Contado,Muebles,15258.83
+1159,Friday   ,Contado,Tiempo Aire,1179.0
+462,Monday   ,Credito,Tiempo Aire,202.67
+86,Saturday ,Credito,Tiempo Aire,781.5
+82,Monday   ,Credito,Muebles,239890.3
+7824,Tuesday  ,Credito,Tiempo Aire,174.0
+511,Thursday ,Contado,Muebles,3457.58
+503,Monday   ,Credito,Ropa,17405.75
+512,Friday   ,Credito,Prestamos,32829.4
+712,Tuesday  ,Credito,Prestamos,19921.25
+951,Thursday ,Credito,Ropa,8452.8
+846,Tuesday  ,Credito,Prestamos,92067.0
+822,Monday   ,Contado,Muebles,13788.12
+7824,Sunday   ,Contado,Ropa,55491.25
+951,Monday   ,Credito,Tiempo Aire,173.0
+1050,Friday   ,Credito,Ropa,17821.2
+511,Thursday ,Contado,Ropa,11105.6
+511,Sunday   ,Contado,Ropa,9893.25
+758,Tuesday  ,Credito,Muebles,14333.62
+951,Thursday ,Credito,Muebles,68101.72
+503,Thursday ,Credito,Prestamos,11781.33
+86,Saturday ,Contado,Tiempo Aire,2379.75
+144,Tuesday  ,Contado,Tiempo Aire,1151.0
+7824,Sunday   ,Credito,Tiempo Aire,303.75
+712,Wednesday,Credito,Tiempo Aire,101.33
+712,Sunday   ,Credito,Prestamos,29233.5
+84,Monday   ,Credito,Tiempo Aire,651.75
+1389,Wednesday,Credito,Ropa,38540.4
+511,Saturday ,Credito,Prestamos,74201.0
+512,Friday   ,Contado,Tiempo Aire,606.6
+84,Thursday ,Credito,Muebles,141373.1
+954,Saturday ,Credito,Prestamos,82861.75
+462,Wednesday,Credito,Ropa,12225.2
+1159,Sunday   ,Contado,Ropa,38959.25
+503,Monday   ,Credito,Muebles,4894.83
+954,Friday   ,Contado,Ropa,60066.2
+419,Wednesday,Contado,Tiempo Aire,1213.4
+511,Tuesday  ,Contado,Ropa,10953.25
+1389,Thursday ,Contado,Tiempo Aire,1077.2
+1389,Monday   ,Contado,Tiempo Aire,1746.75
+86,Tuesday  ,Credito,Ropa,57213.75
+419,Monday   ,Credito,Ropa,43856.5
+503,Thursday ,Credito,Tiempo Aire,433.33
+511,Saturday ,Contado,Ropa,12182.5
+462,Sunday   ,Credito,Ropa,18965.0
+951,Saturday ,Credito,Muebles,92060.14
+1050,Tuesday  ,Credito,Ropa,16520.5
+6548,Saturday ,Contado,Tiempo Aire,982.25
+144,Friday   ,Credito,Tiempo Aire,304.0
+84,Monday   ,Contado,Muebles,49772.59
+7824,Sunday   ,Contado,Muebles,9534.68
+954,Tuesday  ,Credito,Ropa,42105.75
+82,Wednesday,Credito,Prestamos,214296.8
+511,Saturday ,Credito,Muebles,21147.99
+1159,Saturday ,Contado,Ropa,59965.25
+144,Wednesday,Contado,Tiempo Aire,1160.6
+86,Friday   ,Contado,Muebles,45576.86
+299,Tuesday  ,Contado,Muebles,19016.8
+846,Thursday ,Credito,Muebles,67243.8
+1389,Saturday ,Credito,Muebles,120911.62
+86,Sunday   ,Credito,Muebles,312584.89
+144,Monday   ,Credito,Tiempo Aire,271.5
+462,Saturday ,Contado,Ropa,36905.25
+822,Saturday ,Contado,Muebles,19824.13
+299,Thursday ,Contado,Muebles,25284.29
+512,Tuesday  ,Contado,Muebles,1965.08
+82,Tuesday  ,Credito,Tiempo Aire,444.25
+86,Saturday ,Contado,Ropa,126109.5
+7824,Thursday ,Credito,Ropa,18712.8
+419,Saturday ,Contado,Ropa,72515.25
+82,Saturday ,Credito,Tiempo Aire,770.5
+86,Monday   ,Contado,Ropa,67353.75
+82,Sunday   ,Credito,Tiempo Aire,499.25
+419,Monday   ,Contado,Ropa,35657.5
+462,Friday   ,Credito,Prestamos,30651.6
+712,Thursday ,Contado,Tiempo Aire,795.8
+512,Wednesday,Contado,Tiempo Aire,579.0
+512,Monday   ,Contado,Muebles,1436.85
+419,Tuesday  ,Credito,Muebles,87446.54
+86,Sunday   ,Contado,Ropa,122798.25
+419,Thursday ,Contado,Ropa,35996.8
+951,Monday   ,Contado,Muebles,69837.06
+299,Friday   ,Credito,Muebles,68247.4
+299,Monday   ,Credito,Tiempo Aire,260.25
+1389,Tuesday  ,Credito,Prestamos,50260.25
+758,Monday   ,Contado,Ropa,8361.75
+503,Tuesday  ,Credito,Muebles,93.97
+951,Friday   ,Contado,Tiempo Aire,41.75
+419,Tuesday  ,Contado,Ropa,33143.25
+712,Tuesday  ,Contado,Ropa,14685.5
+1159,Thursday ,Credito,Ropa,37712.0
+1159,Thursday ,Contado,Muebles,13614.46
+462,Wednesday,Credito,Muebles,22364.32
+758,Tuesday  ,Credito,Ropa,6071.25
+299,Wednesday,Credito,Prestamos,64852.4
+512,Tuesday  ,Credito,Muebles,7993.75
+299,Sunday   ,Credito,Muebles,77858.63
+758,Sunday   ,Contado,Tiempo Aire,704.0
+1159,Saturday ,Contado,Tiempo Aire,1585.25
+419,Wednesday,Contado,Ropa,36256.4
+1389,Thursday ,Contado,Ropa,31922.0
+462,Thursday ,Credito,Tiempo Aire,147.6
+462,Saturday ,Credito,Prestamos,31034.0
+82,Sunday   ,Credito,Muebles,235107.08
+86,Wednesday,Contado,Ropa,57229.6
+144,Tuesday  ,Contado,Ropa,38257.25
+712,Wednesday,Credito,Ropa,14115.2
+951,Sunday   ,Contado,Tiempo Aire,87.0
+7824,Sunday   ,Credito,Ropa,39418.25
+758,Tuesday  ,Contado,Tiempo Aire,555.25
+512,Saturday ,Credito,Ropa,3266.0
+846,Thursday ,Credito,Tiempo Aire,315.0
+462,Monday   ,Credito,Prestamos,43215.75
+712,Wednesday,Contado,Muebles,2489.87
+1159,Monday   ,Contado,Muebles,10537.49
+846,Sunday   ,Credito,Muebles,180117.25
+419,Sunday   ,Credito,Muebles,92848.05
+511,Monday   ,Contado,Muebles,4481.02
+84,Wednesday,Contado,Muebles,35385.85
+1159,Tuesday  ,Credito,Ropa,32508.5
+86,Thursday ,Credito,Prestamos,75996.0
+144,Friday   ,Credito,Prestamos,56544.8
+1389,Saturday ,Credito,Prestamos,20753.0
+419,Sunday   ,Credito,Prestamos,50364.75
+712,Thursday ,Contado,Muebles,2366.89
+84,Sunday   ,Contado,Tiempo Aire,3479.75
+846,Sunday   ,Credito,Tiempo Aire,275.33
+6548,Friday   ,Credito,Prestamos,27179.4
+951,Thursday ,Contado,Tiempo Aire,43.75
+84,Monday   ,Credito,Ropa,63268.75
+299,Tuesday  ,Credito,Muebles,71055.4
+512,Sunday   ,Contado,Tiempo Aire,653.5
+6548,Thursday ,Credito,Tiempo Aire,173.33
+6548,Saturday ,Credito,Prestamos,19847.75
+954,Wednesday,Credito,Ropa,39577.8
+299,Wednesday,Contado,Ropa,34823.4
+951,Monday   ,Contado,Tiempo Aire,74.5
+299,Monday   ,Credito,Ropa,41686.75
+462,Thursday ,Credito,Ropa,16130.8
+822,Thursday ,Credito,Muebles,30204.14
+503,Saturday ,Credito,Prestamos,3304.33
+144,Monday   ,Contado,Muebles,38053.43
+82,Sunday   ,Contado,Muebles,83140.67
+511,Friday   ,Credito,Muebles,7563.62
+6548,Monday   ,Credito,Ropa,16161.0
+84,Friday   ,Contado,Tiempo Aire,3194.0
+462,Tuesday  ,Credito,Prestamos,68626.25
+84,Tuesday  ,Contado,Muebles,38798.48
+1159,Tuesday  ,Contado,Tiempo Aire,1242.5
+299,Friday   ,Contado,Tiempo Aire,981.2
+1389,Friday   ,Credito,Ropa,34477.0
+7824,Monday   ,Contado,Ropa,29828.5
+299,Thursday ,Credito,Tiempo Aire,390.0
+6548,Wednesday,Credito,Ropa,16013.4
+511,Friday   ,Contado,Tiempo Aire,707.0
+758,Saturday ,Contado,Ropa,12125.0
+846,Tuesday  ,Credito,Muebles,102067.02
+846,Tuesday  ,Credito,Ropa,32264.75
+419,Tuesday  ,Credito,Ropa,27324.0
+6548,Wednesday,Credito,Muebles,11381.89
+84,Monday   ,Contado,Tiempo Aire,3013.5
+1050,Wednesday,Contado,Muebles,22893.98
+712,Wednesday,Contado,Tiempo Aire,1537.8
+7824,Thursday ,Contado,Tiempo Aire,916.2
+758,Monday   ,Credito,Ropa,8741.5
+822,Tuesday  ,Credito,Tiempo Aire,433.67
+82,Sunday   ,Credito,Ropa,157474.5
+82,Thursday ,Credito,Ropa,93398.6
+84,Saturday ,Contado,Ropa,100354.25
+758,Tuesday  ,Credito,Prestamos,14072.25
+954,Saturday ,Credito,Tiempo Aire,423.0
+84,Wednesday,Contado,Ropa,53958.0
+86,Thursday ,Credito,Ropa,64023.0
+6548,Monday   ,Credito,Muebles,5145.69
+6548,Sunday   ,Credito,Prestamos,17697.25
+1159,Wednesday,Credito,Ropa,28323.0
+1050,Saturday ,Credito,Prestamos,37687.75
+511,Sunday   ,Credito,Prestamos,27643.67
+1159,Sunday   ,Credito,Prestamos,44329.5
+1389,Sunday   ,Contado,Ropa,60600.75
+462,Sunday   ,Credito,Tiempo Aire,216.5
+954,Sunday   ,Contado,Tiempo Aire,1591.0
+144,Sunday   ,Contado,Ropa,53066.75
+144,Thursday ,Contado,Ropa,34506.6
+503,Saturday ,Credito,Ropa,26924.25
+1050,Monday   ,Contado,Ropa,20366.75
+758,Thursday ,Contado,Tiempo Aire,905.4
+299,Thursday ,Credito,Muebles,65913.1
+462,Friday   ,Credito,Muebles,27694.31
+1050,Sunday   ,Contado,Ropa,27124.25
+84,Thursday ,Contado,Ropa,52097.0
+951,Thursday ,Credito,Tiempo Aire,217.0
+462,Monday   ,Credito,Ropa,16925.75
+299,Sunday   ,Contado,Tiempo Aire,1190.25
+822,Saturday ,Contado,Ropa,42912.5
+462,Saturday ,Contado,Muebles,13319.82
+84,Tuesday  ,Credito,Tiempo Aire,628.75
+144,Wednesday,Contado,Ropa,38585.0
+512,Friday   ,Credito,Muebles,9959.05
+503,Sunday   ,Credito,Prestamos,4660.33
+1159,Thursday ,Contado,Ropa,30853.2
+6548,Sunday   ,Contado,Tiempo Aire,427.5
+1159,Monday   ,Contado,Tiempo Aire,1462.25
+144,Tuesday  ,Credito,Prestamos,61775.25
+846,Saturday ,Credito,Prestamos,103297.25
+511,Monday   ,Credito,Tiempo Aire,289.67
+84,Thursday ,Credito,Prestamos,99164.2
+7824,Sunday   ,Credito,Muebles,20730.81
+462,Monday   ,Contado,Muebles,18298.69
+144,Sunday   ,Contado,Tiempo Aire,1043.5
+7824,Sunday   ,Credito,Prestamos,11292.0
+1159,Thursday ,Contado,Tiempo Aire,960.2
+1050,Friday   ,Credito,Tiempo Aire,87.0
+1389,Wednesday,Contado,Ropa,27548.0
+511,Thursday ,Contado,Tiempo Aire,929.6
+822,Monday   ,Credito,Ropa,15093.25
+954,Wednesday,Contado,Ropa,42684.4
+144,Thursday ,Contado,Tiempo Aire,1364.8
+462,Saturday ,Credito,Ropa,30063.25
+503,Saturday ,Credito,Tiempo Aire,130.0
+511,Wednesday,Credito,Prestamos,31494.8
+144,Wednesday,Credito,Muebles,57392.75
+419,Friday   ,Contado,Muebles,20309.28
+1389,Tuesday  ,Contado,Muebles,16254.29
+86,Monday   ,Credito,Tiempo Aire,401.25
+822,Tuesday  ,Contado,Muebles,10588.57
+1389,Friday   ,Credito,Muebles,86245.5
+84,Tuesday  ,Credito,Ropa,44672.75
+86,Tuesday  ,Contado,Tiempo Aire,1775.5
+758,Friday   ,Credito,Ropa,8035.2
+822,Thursday ,Credito,Prestamos,39360.2
+712,Tuesday  ,Credito,Ropa,11584.5
+512,Friday   ,Credito,Ropa,2439.6
+503,Sunday   ,Credito,Muebles,13332.75
+712,Friday   ,Contado,Muebles,2843.27
+511,Wednesday,Credito,Muebles,16630.18
+1389,Friday   ,Contado,Ropa,35788.6
+758,Wednesday,Credito,Prestamos,23757.4
+1159,Sunday   ,Credito,Ropa,51359.5
+503,Sunday   ,Contado,Muebles,943.75
+511,Sunday   ,Credito,Ropa,13267.25
+511,Thursday ,Credito,Ropa,6948.6
+144,Wednesday,Credito,Prestamos,57211.4
+7824,Tuesday  ,Credito,Prestamos,20925.25
+1050,Monday   ,Credito,Tiempo Aire,108.5
+846,Tuesday  ,Contado,Tiempo Aire,1796.0
+951,Tuesday  ,Contado,Ropa,28059.75
+512,Sunday   ,Credito,Prestamos,25451.5
+1050,Sunday   ,Credito,Muebles,56353.01
+82,Thursday ,Contado,Tiempo Aire,2607.6
+84,Wednesday,Credito,Tiempo Aire,1005.6
+1050,Friday   ,Contado,Tiempo Aire,753.0
+822,Monday   ,Contado,Ropa,22296.5
+144,Tuesday  ,Contado,Muebles,30158.17
+84,Thursday ,Credito,Ropa,56946.6
+299,Monday   ,Contado,Ropa,38561.0
+1389,Wednesday,Credito,Muebles,78036.03
+462,Thursday ,Contado,Ropa,17582.0
+462,Sunday   ,Contado,Ropa,21414.0
+1159,Tuesday  ,Credito,Prestamos,70944.5
+712,Saturday ,Credito,Prestamos,50786.0
+503,Friday   ,Contado,Tiempo Aire,196.2
+822,Friday   ,Contado,Muebles,18591.53
+1159,Tuesday  ,Credito,Muebles,55373.28
+144,Friday   ,Contado,Ropa,46255.6
+1389,Saturday ,Contado,Ropa,61492.75
+82,Saturday ,Credito,Muebles,265569.38
+846,Saturday ,Credito,Ropa,77480.25
+6548,Friday   ,Contado,Muebles,3319.82
+954,Monday   ,Contado,Ropa,53482.0
+951,Saturday ,Credito,Tiempo Aire,173.0
+419,Wednesday,Contado,Muebles,19575.53
+6548,Tuesday  ,Contado,Muebles,7845.03
+954,Monday   ,Contado,Tiempo Aire,1720.25
+512,Wednesday,Contado,Muebles,3056.88
+419,Saturday ,Credito,Tiempo Aire,335.5
+1389,Saturday ,Credito,Ropa,60211.25
+846,Thursday ,Credito,Ropa,40395.8
+846,Sunday   ,Credito,Ropa,68407.75
+419,Sunday   ,Credito,Ropa,70230.75
+6548,Saturday ,Contado,Muebles,5319.61
+512,Sunday   ,Credito,Ropa,4638.25
+1389,Sunday   ,Credito,Tiempo Aire,217.0
+846,Monday   ,Credito,Muebles,136030.59
+419,Wednesday,Credito,Tiempo Aire,260.0
+951,Thursday ,Contado,Ropa,18432.6
+822,Wednesday,Contado,Ropa,16309.6
+712,Friday   ,Contado,Tiempo Aire,1023.8
+512,Sunday   ,Contado,Ropa,4057.75
+512,Thursday ,Contado,Ropa,2386.8
+503,Tuesday  ,Credito,Prestamos,1077.5
+419,Monday   ,Contado,Muebles,33797.18
+86,Monday   ,Contado,Muebles,49438.55
+6548,Thursday ,Credito,Prestamos,38027.2
+144,Saturday ,Contado,Ropa,64112.25
+758,Saturday ,Contado,Tiempo Aire,912.5
+822,Monday   ,Credito,Muebles,35831.04
+144,Tuesday  ,Credito,Ropa,25566.5
+1389,Wednesday,Contado,Muebles,18524.31
+82,Wednesday,Credito,Ropa,90467.4
+511,Monday   ,Credito,Ropa,14014.25
+299,Saturday ,Credito,Tiempo Aire,261.0
+822,Wednesday,Contado,Muebles,15219.13
+846,Wednesday,Credito,Tiempo Aire,251.4
+6548,Tuesday  ,Credito,Tiempo Aire,87.0
+7824,Wednesday,Contado,Muebles,6139.99
+86,Monday   ,Credito,Muebles,169229.53
+758,Monday   ,Credito,Prestamos,34054.5
+1159,Thursday ,Credito,Muebles,55186.36
+1050,Saturday ,Contado,Tiempo Aire,441.25
+511,Sunday   ,Credito,Muebles,10704.1
+846,Wednesday,Contado,Tiempo Aire,1487.4
+1389,Sunday   ,Contado,Tiempo Aire,1827.0
+419,Wednesday,Credito,Prestamos,44170.0
+511,Friday   ,Credito,Ropa,7918.8
+1389,Thursday ,Credito,Prestamos,73311.8
+1389,Monday   ,Credito,Muebles,125165.94
+1389,Sunday   ,Credito,Prestamos,27017.75
+6548,Tuesday  ,Credito,Prestamos,22197.5
+6548,Saturday ,Credito,Muebles,6054.32
+1050,Wednesday,Credito,Prestamos,51396.6
+144,Wednesday,Credito,Ropa,23933.0
+846,Friday   ,Contado,Ropa,44299.0
+503,Friday   ,Credito,Ropa,15887.2
+954,Thursday ,Contado,Tiempo Aire,1418.6
+1050,Tuesday  ,Credito,Tiempo Aire,303.0
+82,Tuesday  ,Contado,Muebles,55463.75
+299,Wednesday,Credito,Muebles,79169.3
+6548,Saturday ,Contado,Ropa,32688.5
+758,Monday   ,Contado,Muebles,2120.04
+512,Thursday ,Credito,Muebles,12456.9
+7824,Wednesday,Contado,Ropa,24213.8
+82,Saturday ,Contado,Muebles,99645.41
+7824,Friday   ,Credito,Tiempo Aire,144.67
+954,Monday   ,Credito,Prestamos,88293.25
+462,Wednesday,Contado,Tiempo Aire,661.4
+419,Saturday ,Contado,Muebles,30332.77
+954,Monday   ,Credito,Ropa,49756.75
+951,Saturday ,Contado,Muebles,106137.08
+758,Sunday   ,Credito,Muebles,4101.73
+712,Monday   ,Credito,Tiempo Aire,188.33
+7824,Friday   ,Credito,Muebles,18869.4
+144,Sunday   ,Credito,Muebles,63786.85
+419,Thursday ,Credito,Muebles,61638.08
+511,Wednesday,Contado,Tiempo Aire,871.2
+1389,Sunday   ,Credito,Ropa,66096.25
+1159,Saturday ,Credito,Tiempo Aire,628.25
+84,Monday   ,Credito,Muebles,161059.3
+7824,Thursday ,Credito,Muebles,18681.37
+419,Tuesday  ,Contado,Tiempo Aire,1262.75
+299,Saturday ,Contado,Ropa,91582.0
+712,Friday   ,Credito,Prestamos,32857.6
+6548,Monday   ,Contado,Ropa,21793.0
+511,Wednesday,Contado,Muebles,2995.16
+7824,Wednesday,Contado,Tiempo Aire,923.4
+512,Tuesday  ,Contado,Tiempo Aire,372.75
+1389,Thursday ,Credito,Ropa,31246.4
+419,Wednesday,Credito,Ropa,34472.8
+299,Thursday ,Contado,Tiempo Aire,1010.2
+1159,Saturday ,Contado,Muebles,16235.96
+1050,Tuesday  ,Credito,Muebles,41070.48
+462,Sunday   ,Credito,Muebles,30318.54
+951,Saturday ,Credito,Ropa,9920.75
+462,Thursday ,Credito,Muebles,29799.32
+86,Tuesday  ,Credito,Muebles,118271.96
+954,Thursday ,Contado,Muebles,29812.39
+144,Monday   ,Contado,Ropa,36172.25
+512,Friday   ,Credito,Tiempo Aire,130.25
+299,Monday   ,Credito,Muebles,96228.66
+822,Thursday ,Credito,Ropa,16275.2
+503,Friday   ,Contado,Ropa,16867.6
+712,Sunday   ,Credito,Muebles,25578.45
+82,Thursday ,Contado,Muebles,99633.57
+462,Thursday ,Contado,Tiempo Aire,493.6
+84,Thursday ,Credito,Tiempo Aire,494.8
+299,Monday   ,Contado,Tiempo Aire,1424.75
+846,Thursday ,Contado,Muebles,23049.8
+1159,Monday   ,Credito,Ropa,38377.25
+462,Wednesday,Contado,Ropa,15383.8
+1050,Friday   ,Contado,Ropa,20699.2
+954,Tuesday  ,Contado,Ropa,46631.0
+1389,Saturday ,Contado,Tiempo Aire,1272.25
+86,Sunday   ,Contado,Tiempo Aire,3015.75
+86,Thursday ,Contado,Tiempo Aire,1900.6
+419,Sunday   ,Contado,Tiempo Aire,1318.75
+84,Sunday   ,Credito,Tiempo Aire,488.0
+1050,Tuesday  ,Contado,Tiempo Aire,414.75
+462,Sunday   ,Contado,Tiempo Aire,441.75
+1389,Monday   ,Credito,Ropa,39034.75
+84,Thursday ,Contado,Muebles,42956.35
+846,Saturday ,Credito,Muebles,146185.77
+822,Sunday   ,Contado,Ropa,31534.5
+822,Thursday ,Contado,Ropa,16595.2
+954,Thursday ,Credito,Prestamos,72151.6
+462,Thursday ,Contado,Muebles,14184.83
+822,Sunday   ,Contado,Tiempo Aire,3212.0
+503,Friday   ,Contado,Muebles,741.17
+951,Saturday ,Contado,Ropa,30194.5
+299,Wednesday,Contado,Tiempo Aire,1291.8
+6548,Wednesday,Credito,Prestamos,25640.0
+7824,Friday   ,Contado,Ropa,34163.0
+954,Tuesday  ,Credito,Tiempo Aire,216.5
+758,Sunday   ,Contado,Muebles,2549.56
+503,Tuesday  ,Credito,Tiempo Aire,130.0
+846,Sunday   ,Contado,Tiempo Aire,2618.25
+7824,Wednesday,Credito,Tiempo Aire,130.0
+84,Tuesday  ,Contado,Ropa,47102.0
+954,Thursday ,Contado,Ropa,52835.0
+503,Sunday   ,Credito,Tiempo Aire,130.5
+951,Friday   ,Credito,Muebles,63688.97
+6548,Friday   ,Contado,Tiempo Aire,648.0
+462,Monday   ,Credito,Muebles,35285.79
+462,Thursday ,Credito,Prestamos,56853.6
+144,Tuesday  ,Credito,Muebles,40732.97
+503,Thursday ,Credito,Ropa,14810.8
+82,Tuesday  ,Credito,Muebles,150570.04
+86,Friday   ,Contado,Ropa,69831.6
+846,Wednesday,Contado,Muebles,24644.98
+822,Thursday ,Credito,Tiempo Aire,217.0
+503,Friday   ,Credito,Muebles,2959.06
+511,Thursday ,Credito,Prestamos,64518.4
+511,Monday   ,Credito,Muebles,10743.32
+951,Sunday   ,Contado,Ropa,25192.0
+84,Wednesday,Credito,Muebles,105253.44
+84,Saturday ,Contado,Muebles,87258.79
+511,Saturday ,Contado,Tiempo Aire,748.0
+6548,Tuesday  ,Contado,Ropa,15492.75
+846,Wednesday,Contado,Ropa,40209.4
+7824,Wednesday,Credito,Ropa,18954.6
+954,Saturday ,Contado,Tiempo Aire,1771.0
+846,Sunday   ,Contado,Ropa,67374.5
+419,Monday   ,Credito,Tiempo Aire,592.67
+7824,Monday   ,Contado,Muebles,4351.71
+503,Tuesday  ,Contado,Tiempo Aire,255.67
+6548,Wednesday,Contado,Ropa,16829.4
+299,Sunday   ,Credito,Ropa,49618.0
+299,Thursday ,Credito,Ropa,33513.8
+419,Tuesday  ,Credito,Prestamos,72307.75
+1050,Friday   ,Contado,Muebles,16603.27
+758,Tuesday  ,Contado,Ropa,5823.25
+511,Wednesday,Credito,Tiempo Aire,141.0
+1050,Saturday ,Contado,Ropa,39387.25
+954,Monday   ,Credito,Tiempo Aire,333.33
+512,Wednesday,Credito,Muebles,8749.65
+712,Thursday ,Credito,Muebles,7629.14
+7824,Saturday ,Credito,Muebles,16755.17
+82,Friday   ,Credito,Ropa,115841.4
+1389,Friday   ,Contado,Muebles,31098.61
+846,Monday   ,Contado,Tiempo Aire,2309.75
+822,Tuesday  ,Contado,Ropa,20012.0
+1159,Tuesday  ,Credito,Tiempo Aire,293.0
+7824,Monday   ,Contado,Tiempo Aire,1195.5
+144,Wednesday,Contado,Muebles,44231.54
+822,Tuesday  ,Contado,Tiempo Aire,1457.0
+512,Monday   ,Credito,Prestamos,19050.25
+846,Tuesday  ,Contado,Muebles,45435.32
+758,Wednesday,Contado,Muebles,2714.43
+84,Tuesday  ,Credito,Muebles,123143.09
+462,Tuesday  ,Contado,Muebles,11228.87
+82,Saturday ,Contado,Tiempo Aire,4408.75
+512,Saturday ,Credito,Prestamos,30752.75
+419,Friday   ,Credito,Muebles,45073.09
+1389,Tuesday  ,Credito,Ropa,34203.25
+299,Tuesday  ,Contado,Tiempo Aire,1107.5
+1050,Wednesday,Contado,Ropa,21643.2
+712,Monday   ,Contado,Ropa,17686.25
+82,Tuesday  ,Contado,Tiempo Aire,2246.0
+299,Wednesday,Credito,Tiempo Aire,217.0
+954,Sunday   ,Contado,Muebles,37675.2
+1159,Friday   ,Credito,Muebles,59055.35
+512,Sunday   ,Contado,Muebles,1928.01
+954,Friday   ,Contado,Muebles,30724.29
+951,Tuesday  ,Credito,Ropa,9917.25
+299,Monday   ,Credito,Prestamos,83177.5
+419,Saturday ,Credito,Muebles,110751.48
+86,Saturday ,Credito,Muebles,297420.66
+954,Wednesday,Contado,Tiempo Aire,1387.0
+951,Monday   ,Credito,Muebles,56603.66
+822,Wednesday,Credito,Prestamos,43514.6
+144,Friday   ,Credito,Ropa,27975.0
+512,Thursday ,Credito,Prestamos,18085.2
+512,Monday   ,Credito,Muebles,8771.34
+954,Friday   ,Credito,Prestamos,57014.2
+7824,Saturday ,Credito,Tiempo Aire,368.5
+1159,Friday   ,Credito,Tiempo Aire,347.0
+84,Friday   ,Credito,Muebles,147285.85
+758,Thursday ,Contado,Muebles,760.99
+712,Monday   ,Credito,Muebles,24127.37
+1050,Tuesday  ,Contado,Ropa,19538.75
+822,Thursday ,Contado,Muebles,8593.27
+503,Sunday   ,Contado,Tiempo Aire,103.25
+84,Sunday   ,Credito,Ropa,87949.75
+712,Tuesday  ,Contado,Tiempo Aire,992.75
+1159,Saturday ,Credito,Prestamos,93400.75
+511,Sunday   ,Credito,Tiempo Aire,159.33
+511,Thursday ,Credito,Tiempo Aire,281.5
+954,Wednesday,Credito,Tiempo Aire,225.8
+954,Sunday   ,Credito,Prestamos,105750.25
+84,Sunday   ,Credito,Muebles,173966.75
+299,Monday   ,Contado,Muebles,24946.74
+1159,Monday   ,Credito,Tiempo Aire,347.0
+82,Wednesday,Contado,Muebles,46060.85
+7824,Monday   ,Credito,Tiempo Aire,216.67
+82,Tuesday  ,Credito,Ropa,88541.75
+419,Friday   ,Credito,Ropa,37940.4
+86,Friday   ,Credito,Ropa,77536.0
+512,Wednesday,Credito,Tiempo Aire,173.75
+758,Saturday ,Credito,Ropa,12876.25
+1050,Thursday ,Credito,Ropa,15645.0
+419,Monday   ,Credito,Prestamos,95202.25
+951,Tuesday  ,Contado,Muebles,98487.29
+1159,Sunday   ,Contado,Tiempo Aire,1308.0
+84,Sunday   ,Contado,Muebles,29420.01
+1050,Tuesday  ,Credito,Prestamos,48976.75
+462,Tuesday  ,Contado,Ropa,16461.75
+846,Monday   ,Credito,Tiempo Aire,271.25
+6548,Thursday ,Contado,Muebles,608.27
+712,Friday   ,Credito,Ropa,16816.4
+951,Tuesday  ,Contado,Tiempo Aire,133.67
+462,Saturday ,Contado,Tiempo Aire,819.0
+712,Saturday ,Credito,Muebles,13612.73
+86,Monday   ,Credito,Ropa,74407.75
+511,Sunday   ,Contado,Muebles,3204.52
+1050,Friday   ,Credito,Muebles,42910.51
+954,Wednesday,Contado,Muebles,35246.7
+144,Saturday ,Credito,Tiempo Aire,347.25
+1389,Sunday   ,Credito,Muebles,137251.25
+86,Wednesday,Credito,Muebles,151689.99
+144,Monday   ,Credito,Muebles,52820.9
+144,Thursday ,Credito,Prestamos,58912.6
+1050,Monday   ,Credito,Prestamos,72545.0
+1389,Tuesday  ,Contado,Tiempo Aire,1239.5
+954,Sunday   ,Credito,Ropa,78534.0
+758,Thursday ,Credito,Muebles,6213.27
+822,Monday   ,Contado,Tiempo Aire,2099.5
+712,Monday   ,Credito,Ropa,16624.0
+419,Thursday ,Credito,Ropa,37818.8
+1159,Monday   ,Contado,Ropa,31983.0
+503,Monday   ,Credito,Prestamos,9482.5
+758,Monday   ,Credito,Tiempo Aire,130.33
+144,Monday   ,Credito,Ropa,25654.0
+954,Thursday ,Credito,Muebles,90398.08
+712,Tuesday  ,Credito,Tiempo Aire,217.0
+822,Friday   ,Credito,Ropa,22374.6
+1159,Tuesday  ,Contado,Muebles,16663.79
+82,Saturday ,Credito,Prestamos,241502.25
+511,Tuesday  ,Contado,Muebles,4194.61
+846,Monday   ,Contado,Ropa,43927.75
+299,Friday   ,Credito,Prestamos,33942.6
+1389,Thursday ,Contado,Muebles,17373.44
+86,Wednesday,Contado,Muebles,34243.94
+822,Saturday ,Credito,Prestamos,77452.5
+712,Thursday ,Credito,Ropa,13720.8
+846,Wednesday,Credito,Prestamos,93100.0
+7824,Saturday ,Credito,Ropa,33505.5
+1159,Friday   ,Credito,Ropa,45308.6
+6548,Monday   ,Credito,Tiempo Aire,173.0
+822,Wednesday,Credito,Muebles,27884.82
+951,Sunday   ,Credito,Muebles,94452.58
+503,Saturday ,Contado,Tiempo Aire,380.0
+951,Thursday ,Contado,Muebles,65636.19
+951,Sunday   ,Contado,Muebles,91151.95
+951,Friday   ,Contado,Muebles,73824.49
+1389,Monday   ,Credito,Prestamos,61799.5
+712,Thursday ,Contado,Ropa,17627.2
+503,Friday   ,Credito,Prestamos,9839.67
+82,Monday   ,Credito,Ropa,109561.5
+512,Wednesday,Contado,Ropa,2481.0
+511,Friday   ,Contado,Ropa,11182.0
+511,Saturday ,Contado,Muebles,2944.82
+758,Monday   ,Contado,Tiempo Aire,871.0
+1159,Thursday ,Credito,Tiempo Aire,217.0
+954,Monday   ,Credito,Muebles,126534.45
+6548,Friday   ,Credito,Ropa,11193.8
+462,Tuesday  ,Contado,Tiempo Aire,829.75
+758,Wednesday,Contado,Tiempo Aire,823.4
+82,Sunday   ,Contado,Ropa,160996.5
+1389,Wednesday,Credito,Tiempo Aire,184.5
+512,Wednesday,Credito,Ropa,3022.6
+503,Wednesday,Contado,Tiempo Aire,294.6
+846,Friday   ,Credito,Tiempo Aire,286.2
+503,Saturday ,Credito,Muebles,4664.65
+511,Tuesday  ,Contado,Tiempo Aire,664.75
+712,Saturday ,Contado,Tiempo Aire,1034.0
+86,Tuesday  ,Contado,Ropa,61013.0
+846,Tuesday  ,Contado,Ropa,39140.25
+758,Sunday   ,Credito,Tiempo Aire,130.0
+758,Thursday ,Credito,Tiempo Aire,159.33
+7824,Friday   ,Credito,Ropa,20924.4
+1050,Monday   ,Credito,Ropa,23834.75
+954,Saturday ,Contado,Ropa,89931.5
+951,Wednesday,Contado,Ropa,26482.2
+144,Friday   ,Contado,Tiempo Aire,1099.6
+846,Thursday ,Contado,Tiempo Aire,1711.4
+6548,Saturday ,Credito,Ropa,15496.5
+758,Monday   ,Credito,Muebles,5819.18
+822,Sunday   ,Credito,Tiempo Aire,246.0
+846,Monday   ,Credito,Ropa,52655.25
+1159,Wednesday,Credito,Muebles,69124.64
+299,Saturday ,Credito,Ropa,77016.5
+86,Tuesday  ,Credito,Tiempo Aire,325.25
+1050,Thursday ,Contado,Tiempo Aire,768.8
+7824,Thursday ,Credito,Prestamos,17533.2
+758,Wednesday,Credito,Ropa,5426.4
+84,Monday   ,Credito,Prestamos,104283.5
+712,Wednesday,Credito,Prestamos,49961.2
+86,Tuesday  ,Credito,Prestamos,110060.0
+1050,Wednesday,Contado,Tiempo Aire,715.8
+6548,Friday   ,Credito,Tiempo Aire,173.33
+82,Thursday ,Contado,Ropa,97616.6
+951,Saturday ,Contado,Tiempo Aire,93.33
+512,Wednesday,Credito,Prestamos,19223.4
+82,Monday   ,Contado,Muebles,57087.03
+712,Thursday ,Credito,Prestamos,21593.6
+299,Friday   ,Credito,Tiempo Aire,251.4
+758,Wednesday,Credito,Muebles,12454.75
+512,Saturday ,Contado,Muebles,3016.37
+822,Tuesday  ,Credito,Ropa,12061.5
+419,Friday   ,Contado,Ropa,40597.4
+758,Wednesday,Credito,Tiempo Aire,159.33
+758,Thursday ,Credito,Prestamos,14102.6
+503,Wednesday,Contado,Ropa,13912.8
+7824,Tuesday  ,Contado,Muebles,2388.99
+419,Tuesday  ,Credito,Tiempo Aire,347.0
+1050,Sunday   ,Contado,Tiempo Aire,255.75
+462,Saturday ,Credito,Tiempo Aire,130.33
+419,Sunday   ,Contado,Ropa,61020.25
+758,Friday   ,Contado,Tiempo Aire,681.2
+822,Sunday   ,Contado,Muebles,27380.37
+144,Monday   ,Credito,Prestamos,63140.75
+419,Monday   ,Contado,Tiempo Aire,1454.5
+7824,Saturday ,Contado,Ropa,56862.25
+1389,Wednesday,Contado,Tiempo Aire,1227.2
+512,Monday   ,Contado,Ropa,3093.0
+1050,Thursday ,Contado,Ropa,18561.0
+758,Saturday ,Contado,Muebles,3884.48
+822,Friday   ,Credito,Prestamos,55307.6
+1050,Wednesday,Credito,Tiempo Aire,130.25
+1050,Thursday ,Credito,Prestamos,42674.0
+144,Thursday ,Credito,Muebles,62217.43
+86,Tuesday  ,Contado,Muebles,40016.15
+846,Thursday ,Contado,Ropa,38516.4
+462,Wednesday,Credito,Prestamos,39287.0
+144,Thursday ,Contado,Muebles,26931.87
+712,Saturday ,Contado,Muebles,3066.16
+82,Thursday ,Credito,Tiempo Aire,555.4
+84,Saturday ,Contado,Tiempo Aire,4238.5
+503,Sunday   ,Credito,Ropa,26601.0
+712,Tuesday  ,Credito,Muebles,8204.75
+86,Monday   ,Contado,Tiempo Aire,2280.75
+822,Tuesday  ,Credito,Prestamos,44286.25
+822,Friday   ,Credito,Tiempo Aire,303.2
+6548,Sunday   ,Credito,Muebles,8105.6
+7824,Monday   ,Credito,Prestamos,24007.0
+712,Friday   ,Contado,Ropa,17652.2
+6548,Wednesday,Credito,Tiempo Aire,173.5
+7824,Tuesday  ,Contado,Ropa,21296.25
+758,Saturday ,Credito,Tiempo Aire,281.5
+82,Friday   ,Contado,Ropa,127768.2
+503,Saturday ,Contado,Muebles,1183.4
+419,Friday   ,Contado,Tiempo Aire,1234.8
+6548,Saturday ,Credito,Tiempo Aire,87.0
+954,Wednesday,Credito,Prestamos,96530.8
+462,Wednesday,Contado,Muebles,10888.61
+1159,Thursday ,Credito,Prestamos,69635.0
+1159,Monday   ,Credito,Muebles,87128.44
+1159,Wednesday,Credito,Tiempo Aire,269.0
+503,Monday   ,Contado,Ropa,25119.0
+7824,Tuesday  ,Contado,Tiempo Aire,836.25
+1050,Wednesday,Credito,Ropa,17869.8
+82,Monday   ,Contado,Ropa,100756.0
+462,Friday   ,Contado,Muebles,14930.01
+82,Sunday   ,Contado,Tiempo Aire,3391.5
+822,Friday   ,Contado,Ropa,25253.0
+82,Monday   ,Contado,Tiempo Aire,2726.0
+419,Tuesday  ,Contado,Muebles,18080.81
+86,Thursday ,Credito,Muebles,136921.52
+144,Friday   ,Credito,Muebles,51182.41
+1050,Friday   ,Credito,Prestamos,54908.4
+299,Saturday ,Credito,Prestamos,71114.75
+822,Saturday ,Credito,Ropa,33354.0
+758,Friday   ,Contado,Muebles,3165.51
+6548,Monday   ,Credito,Prestamos,17527.33
